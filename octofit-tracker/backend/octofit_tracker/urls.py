@@ -23,3 +23,4 @@ urlpatterns = [
     # API root and endpoints
     *api_urlpatterns,
 ]
+
