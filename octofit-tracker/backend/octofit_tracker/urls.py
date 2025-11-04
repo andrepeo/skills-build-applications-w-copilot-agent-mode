@@ -6,3 +6,4 @@ urlpatterns = [
 	path('admin/', admin.site.urls),
 	*api_urlpatterns,
 ]
+
